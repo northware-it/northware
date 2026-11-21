@@ -13,8 +13,8 @@
     "tsc-check": "tsc --noEmit"
   },
   "dependencies": {
-    "@neondatabase/serverless": "^1.2.0",
-    "dotenv": "^18.0.9",
+    "@neondatabase/serverless": "^1.2.1",
+    "dotenv": "^18.0.10",
     "drizzle-kit": "^0.31.11",
     "drizzle-orm": "^0.45.4"
   }
