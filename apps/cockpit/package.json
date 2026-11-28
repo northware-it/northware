@@ -11,7 +11,7 @@
     "tsc-check": "tsc --noEmit"
   },
   "dependencies": {
-    "@hookform/resolvers": "^6.0.2",
+    "@hookform/resolvers": "^7.0.9",
     "@northware/auth": "workspace:*",
     "@northware/database": "workspace:*",
     "@northware/ui": "workspace:*",
